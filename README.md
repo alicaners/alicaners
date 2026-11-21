@@ -3,7 +3,7 @@
 # Hi, I'm Ali Caner 👋
 
 <a href="https://alicanersezer.netlify.app">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=4CC38A&center=true&vCenter=true&multiline=false&width=620&height=50&lines=Backend+Developer+%E2%9A%99%EF%B8%8F;Software+Engineering+Student+%40+Sakarya+University;Java+%C2%B7+Spring+Boot+%C2%B7+C%23+%C2%B7+.NET;Turning+ideas+into+working+products+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=4CC38A&center=true&vCenter=true&multiline=false&width=800&height=50&lines=Backend+Developer+%E2%9A%99%EF%B8%8F;Software+Engineering+Student+%40+Sakarya+University;Java+%C2%B7+Spring+Boot+%C2%B7+C%23+%C2%B7+.NET;Turning+ideas+into+working+products+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 I'm a 3rd-year Software Engineering student who loves turning ideas into products that actually work.<br/>
